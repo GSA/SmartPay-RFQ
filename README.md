@@ -6,3 +6,4 @@
 - [Attachment C](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20C_CIO_21001N_GSA_Information_Technology_Security_Policy.pdf). CIO 21001N GSA Information Technology Security Policy
 - [Attachment D](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20D%20-%20CIO-12-2018%20Revision%202%20Final_%20IT%20Policy%20Requirements%20Guide.pdf)
 - [Attachment E](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20E_Potential%20Organizational%20Conflict%20of%20Interest_%20SmartPay%20Development%20Services.docx). Potential Organizational Conflict of Interest: SmartPay Development Services 
+- [Attachment G](https://github.com/GSA/SmartPay-RFQ/blob/main/Appendix%20G%20-%20Smartpay%20Pricing%20Sheet.xlsx). Excel Worksheet
