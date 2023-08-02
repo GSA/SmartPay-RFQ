@@ -380,24 +380,39 @@ https://vcss.ocfo.gsa.gov
 Invoices may also be submitted in lieu of electronic submission to:
 
 USDA-OCFO
+
 Financial Information & Operations Division
+
 Financial Operations & Disbursement Branch
+
 2300 Main Street – 2NW
+
 Kansas City, MO 64108
+
 Tel: (800) 676-3690/(816) 926-7287
+
 Fax: (816) 926-5189
 
 A duplicate electronic invoice with supporting documentation shall be sent electronically to the COR and CO. The COR will confirm performance made against the invoiced line items to ensure that the correct amounts have been billed and will document any price deductions. The COR will then certify and provide a signature indicating that the invoice is valid for payment. Invoices are authorized for payment upon the Government’s receipt and acceptance of deliverables specified in the task order and the receipt of a valid invoice. Invoices shall be rendered no later than the 15th calendar day of the month following performance and must be accompanied by all status reports submitted during that period. The COR must receive a copy of the invoice and all supporting documentation (i.e. list of daily hours worked by each of the Contractor’s employees (also summed up as weekly and monthly for each person)) before or at the same time as the GSA Finance Office. All final invoices must be submitted no later than thirty (30) calendar days after the last day of the month for which the charges, either labor and/or ODCs, were incurred. The Contractor may invoice only for hours, travel, and/or unique services ordered by GSA and actually used in direct support of the program office for this task order.
 
 Invoices must include the following:
+
 (1) Name and address of the Contractor
+
 (2) Invoice date and number
+
 (3) GSA Multiple Award Schedule (MAS) Information Technology Professional Services Contract Number, line item number and, if applicable, the order number
+
 (4) Description, quantity, unit of measure, unit price and extended price of the items delivered
+
 (5) Terms of any discount for prompt payment offered
+
 (6) Name and address of official to whom payment is to be sent
+
 (7) Name, title, and phone number of person to notify in event of defective invoice
+
 (8) Taxpayer Identification Number (TIN). The Contractor shall include its TIN on the invoice only if required elsewhere in this contract
+
 (9) Electronic funds transfer (EFT) banking information
 
 Note: Failure to comply with the procedures outlined above may result in the invoice being rejected, or your payment being delayed.
