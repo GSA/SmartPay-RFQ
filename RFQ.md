@@ -22,7 +22,7 @@ All clauses, terms and conditions of the contractor’s contract apply / flow do
 | ------------- | ------------- |------------- |
 | Questions Submission | August 9, 2023 at Noon, Eastern Time (ET) | [Question Response Form](https://docs.google.com/forms/d/e/1FAIpQLSe1sSxJM48HAeuaVLkP9OnGYJADwT7UgOxVMDGMn83cZ1ndrA/viewform) |
 
-| Government Point of Contact |
+<td colspan="2">Government Point of Contact</td>
 | --- | --- |
 | Contracting Officer | *Rosalind Cherry* |
 | Contracting Office | *Office of Professional Services and Human Capital Categories (PSHC)
