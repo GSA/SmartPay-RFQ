@@ -2,7 +2,7 @@ General Services Administration
 
 Office of Professional Services and Human Capital Categories (PSHC)
 
-Office of Contract Operations (QRAD)for the GSA Center for Charge Card Management (CCCM)
+Office of Contract Operations (QRAD) for the GSA Center for Charge Card Management (CCCM)
 # Request for Quote Number: 47QRAB23Q0004 for GSA SmartPayⓇ Agile Development Services 
 
 **From:**	Rosalind Cherry, Contracting Officer (CO), General Services Administration (GSA), Office of Contract Operations (QRAD)
