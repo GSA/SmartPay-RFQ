@@ -225,3 +225,94 @@ The Government may perform a cyber-supply chain risk assessment of the awarded c
 6. Any other considerations that would factor into an analysis of the security, integrity, resilience, quality, trustworthiness, or authenticity of products, services or sources.
 
 In the event supply chain risks are identified during contract administration and corrective action becomes necessary, mutually agreeable corrective actions will be sought based upon specific identified risks. Failure to resolve any identified risk may result in government action including not extending the period of performance, not exercising remaining option periods, and/or contract termination.
+
+### 3.5	Personnel Skills and Knowledge
+*Key Personnel* – The Contractor must designate both a Project Manager (PM) and a Technical Lead (or labor category equivalent) as Key Personnel for this project. The PM will be a direct liaison to the CCCM product team, and will be responsible for the supervision and management of all of the Contractor’s personnel. The Technical Lead must have a full understanding of the technical approach to be used by the Contractor’s development team and will be responsible for ensuring that the Contractor’s development team follows that approach.
+
+*Key Personnel Substitution* – Key Personnel substitutions must be approved by the CO or COR in writing. Contractor requests for a substitution of Key Personnel must include a detailed explanation of the justifying circumstances, and a complete résumé for the proposed substitute or addition, including skills, experience, education, training, and security level. 
+
+*Teaming Arrangements* – No teaming will be permitted.
+
+### 3.6	Special Clauses and Provisions
+*Data Rights and Ownership of Deliverables* – All software and documentation delivered by the Contractor will be owned by the Government and committed to the public domain. This software and documentation includes, but is not limited to, data, documents, graphics, code, plans, reports, schedules, schemas, metadata, architecture designs, and the like; all new open source software created by the Contractor and forks or branches of current open source software where the Contractor has made a modification; and all new tooling, scripting configuration management, infrastructure as code, or any other final changes or edits to successfully deploy or operate the software.
+
+To the extent that the Contractor seeks to incorporate any software that was not first produced in the performance of this task order in the software delivered under this task order, CCCM encourages the Contractor to incorporate either software that is in the public domain, or free and open source software that qualifies under the Open Source Definition promulgated by the Open Source Initiative. The Contractor must obtain written permission from the CO or COR before incorporating into the delivered software any software that is subject to a license that does not qualify under the Open Source Definition promulgated by the Open Source Initiative. If granted such written permission, then the Contractor’s rights to use that software must be promptly assigned to the Government.
+
+If software delivered by the Contractor incorporates software that is subject to an open source license that provides implementation guidance, then the Contractor must ensure compliance with that guidance. If software delivered by the Contractor incorporates software that is subject to an open source license that does not provide implementation guidance, then the Contractor must attach or include the terms of the license within the work itself, such as in code comments at the beginning of a file, or in a license file within a software repository.
+
+**FAR 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (NOV 2021)**
+
+The Offeror shall not complete the representation at paragraph (d)(1) of this provision if the Offeror has represented that it "does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument" in paragraph (c)(1) in the provision at 52.204-26, Covered Telecommunications Equipment or Services—Representation, or in paragraph (v)(2)(i) of the provision at 52.212-3, Offeror Representations and Certifications-Commercial Products or Commercial Services. The Offeror shall not complete the representation in paragraph (d)(2) of this provision if the Offeror has represented that it "does not use covered telecommunications equipment or services, or any equipment, system, or service that uses covered telecommunications equipment or services" in paragraph (c)(2) of the provision at 52.204-26, or in paragraph (v)(2)(ii) of the provision at 52.212-3.
+
+(a) Definitions. As used in this provision—
+Backhaul, covered telecommunications equipment or services, critical technology, interconnection arrangements, reasonable inquiry, roaming, and substantial or essential component have the meanings provided in the clause 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
+
+(b) Prohibition. (1) Section 889(a)(1)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2019, from procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. Nothing in the prohibition shall be construed to—
+
+(i) Prohibit the head of an executive agency from procuring with an entity to provide a service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+
+(ii) Cover telecommunications equipment that cannot route or redirect user data traffic or cannot permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+
+(2) Section 889(a)(1)(B) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2020, from entering into a contract or extending or renewing a contract with an entity that uses any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. This prohibition applies to the use of covered telecommunications equipment or services, regardless of whether that use is in performance of work under a Federal contract. Nothing in the prohibition shall be construed to—
+
+(i) Prohibit the head of an executive agency from procuring with an entity to provide a service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+
+(ii) Cover telecommunications equipment that cannot route or redirect user data traffic or cannot permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+
+(c) Procedures. The Offeror shall review the list of excluded parties in the System for Award Management (SAM) ( https://www.sam.gov) for entities excluded from receiving federal awards for "covered telecommunications equipment or services".
+
+(d) Representation. The Offeror represents that—
+
+(1) It □ will, □ will not provide covered telecommunications equipment or services to the Government in the performance of any contract, subcontract or other contractual instrument resulting from this solicitation. The Offeror shall provide the additional disclosure information required at paragraph (e)(1) of this section if the Offeror responds "will" in paragraph (d)(1) of this section; and
+
+(2) After conducting a reasonable inquiry, for purposes of this representation, the Offeror represents that—
+
+It □ does, □ does not use covered telecommunications equipment or services, or use any equipment, system, or service that uses covered telecommunications equipment or services. The Offeror shall provide the additional disclosure information required at paragraph (e)(2) of this section if the Offeror responds "does" in paragraph (d)(2) of this section.
+
+(e) Disclosures. (1) Disclosure for the representation in paragraph (d)(1) of this provision. If the Offeror has responded "will" in the representation in paragraph (d)(1) of this provision, the Offeror shall provide the following information as part of the offer:
+
+(i) For covered equipment—
+
+(A) The entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the original equipment manufacturer (OEM) or a distributor, if known);
+
+(B) A description of all covered telecommunications equipment offered (include brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); and
+
+(C) Explanation of the proposed use of covered telecommunications equipment and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(1) of this provision.
+
+(ii) For covered services—
+
+(A) If the service is related to item maintenance: A description of all covered telecommunications services offered (include on the item being maintained: Brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); or
+
+(B) If not associated with maintenance, the Product Service Code (PSC) of the service being provided; and explanation of the proposed use of covered telecommunications services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(1) of this provision.
+
+(2) Disclosure for the representation in paragraph (d)(2) of this provision. If the Offeror has responded "does" in the representation in paragraph (d)(2) of this provision, the Offeror shall provide the following information as part of the offer:
+
+(i) For covered equipment—
+
+(A) The entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known);
+
+(B) A description of all covered telecommunications equipment offered (include brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); and
+
+(C) Explanation of the proposed use of covered telecommunications equipment and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(2) of this provision.
+
+(ii) For covered services—
+
+(A) If the service is related to item maintenance: A description of all covered telecommunications services offered (include on the item being maintained: Brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); or
+
+(B) If not associated with maintenance, the PSC of the service being provided; and explanation of the proposed use of covered telecommunications services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(2) of this provision.
+
+(End of provision)
+
+**FAR 52.204-26 Covered Telecommunications Equipment or Services-Representation (Oct 2020)**
+
+(a) Definitions. As used in this provision, "covered telecommunications equipment or services" and "reasonable inquiry" have the meaning provided in the clause 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
+
+(b) Procedures. The Offeror shall review the list of excluded parties in the System for Award Management (SAM) ( https://www.sam.gov) for entities excluded from receiving federal awards for "covered telecommunications equipment or services".
+
+(c) (1) Representation. The Offeror represents that it □ does, □ does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument.
+
+(2) After conducting a reasonable inquiry for purposes of this representation, the offeror represents that it □ does, □ does not use covered telecommunications equipment or services, or any equipment, system, or service that uses covered telecommunications equipment or services.
+
+(End of provision)
+
+## 4.0	Period of Performance, Contract Place Performance, and Contract Type
