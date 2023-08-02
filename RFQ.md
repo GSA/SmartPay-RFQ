@@ -90,3 +90,69 @@ Implementation and documentation is ongoing — current specifications are publi
 
 CCCM has a large user base and can facilitate recruitment of users for ongoing research and usability testing. CCCM has robust survey results, user research, and ongoing usability testing feedback they will share with the Contractor upon award. 
 
+## 2.0 Scope and Objectives
+### 2.1 Problems
+The current GSA SmartPay main website is difficult for users to navigate intuitively. CCCM has challenges keeping content current and ensuring content is accessible to all audiences.
+
+The current GSA SmartPay training website suffers from performance issues, which cause users to time-out in the middle of quizzes or experience random crashes. Since users login so infrequently, they often forget their passwords and need manual assistance in some cases to reset passwords which is a drain on CCCM resources. Reporting is limited and only available at the agency level; for large agencies, this is too untenable to track, and agencies require users to email agency coordinators their certificates to manually check them off a list. 
+
+### 2.2 Product Vision
+Make it easier for SmartPay stakeholders to find the information they’re interested in, and for the SmartPay Program Management Office (PMO) to keep the website updated and accessible to users.
+
+### 2.3 	Scope
+CCCM seeks agile software development services. The services to be provided will include all aspects of the software development process, including planning, design, software development and coding, prototyping, documentation, and testing. The services also include support of GSA security documentation and testing. 
+
+CCCM intends that the software delivered under this task order will be committed to the public domain. The Contractor will have to obtain CCCM’s permission before delivering software under this task order that incorporates any software that is not free and open source. The Contractor must post all developed code to a GitHub repository designated by CCCM.
+
+### 2.4	Backlog
+The set of preliminary user stories set forth below will be the starting point for the development of software to be provided by the Contractor under this task order. These preliminary user stories are provided only for illustrative purposes, and do not comprise the full scope or detail of the project. CCCM expects that the Contractor will work closely with CCCM Product Owner(s) to develop and prioritize a full gamut of user stories as the project progresses.
+
+Individual user stories may be modified, added, retracted, or reprioritized by CCCM at any time, and CCCM expects that the user stories will be continuously refined during the development process. 
+
+**Programmatic data**
+- As an Agency / Organization Program Coordinator (A/OPC), I want information relevant for agency spend, so I can provide this to agency Chief Financial Officers as requested.
+- As an A/OPC, I want access to travel spend by region, so I can understand regional spend trends for travel.
+
+**Training reporting**
+- As an A/OPC, I want users to be sent automatic reminders for training, so that certification requirements are automatically managed by the training platform.
+- As a Level 1 A/OPC, I want to have reports automatically sent to me at indicated time frames, so I can have regular access to reports without having to access the system.
+- As an A/OPC and administrator, I want to have customizable reports, so I have the ability to further analyze data.
+
+**Administrative functions**
+- As a system administrator, I want to perform periodic database purges for users who exist in the system but have not completed any quizzes so I can keep the database up-to-date and reduce storage requirements.
+- As a system administrator, I want to be able to post system messages, so I can alert users to website status.
+- As a system administrator, I want a user friendly maintenance interface, so I can easily make content changes.
+- As a system administrator I want to be able to modify a user’s profile in the database, so that I can correct incorrect or out-of-date information.
+
+**Email usage/monitoring**
+- As a system administrator, I want to be able to confirm what emails were sent to whom and when, so that we can ensure users are being properly notified.
+- As a system administrator, I want to monitor email bouncebacks, so that I can take corrective action (as needed) to ensure users are being properly notified.
+- As a system administrator, in the event of important information / notification, I need the ability to send emails to all users.
+
+**Other**
+- As an A/OPC and card holder, I want access to interactive content, so I can engage with the content in the forum I feel most comfortable.
+- As an A/OPC and card holder, I want quick access to GSA SmartPay’s social media accounts, so that I can stay apprised of program information / announcements.
+- As the GSA SmartPay program, we want to implement GSA’s instance of Google Tag Manager, in order to have more transparency into how our users are using our main website and training website.
+
+**Security**
+- As the system administrator, I need [a specific system vulnerability] that was discovered during penetration testing to be remediated, to ensure the training website remains secure.
+- As the system administrator, I need [a specific item] to be updated, to comply with updated GSA IT security policies, standards and guidelines.
+- As a system administrator, I need to remediate vulnerabilities based on authenticated scans, to comply with monthly security deliverable requirements.
+- As a system administrator, I need the System Security Plan to be updated, to reflect a significant change in the system.
+
+### 2.5 	List of Deliverables with Quality Assurance Surveillance Plan (QASP)
+The following chart sets forth the performance standards and quality levels the code and documentation, that is provided by the Contractor, must meet. It also outlines the methods CCCM will use to assess the standard and quality levels of that code and documentation.
+
+| Deliverable | Performance Standard(s) | Acceptable Quality Level | Method of Assessment |
+| :--- | :--- | :--- | :--- |
+| Tested Code | Code delivered under the order must have substantial test code coverage | Minimum of 90% test coverage of all code. All areas of code are meaningfully tested | Combination of manual review and automated testing |
+| Properly Styled Code | [18F Coding Styles](https://engineering.18f.gov/frontend/#js-style) Reference Guide | 0 linting errors and 0 warnings | Combination of manual review and automated testing |
+| Accessible | [Web Content Accessibility Guidelines 2.1 AA standards](https://www.w3.org/TR/WCAG21/); [Section 508 Compliance](https://www.section508.gov/)
+ | 0 errors reported using an automated scanner and 0 errors reported in manual testing | Combination of manual review and automated testing (such as [pa11y](https://github.com/pa11y/pa11y)) |
+| Deployed | Code must successfully build and deploy into staging environment | Successful build with a single command | Combination of manual review and automated testing |
+| Documented | Summary of user stories completed every sprint. All dependencies are listed and the licenses are documented.
+Major functionality in the software/source code is documented. Individual methods are documented inline in a format that permits the use of tools such as JSDoc. System diagram is provided.
+Relevant security controls are documented and kept up to date.
+ | Combination of manual review and automated testing, if available | Manual review |
+| Secure | Code is free of known static and runtime vulnerabilities | Code submitted must be free of medium- and high-level static and dynamic security vulnerabilities | Tests free of medium- and high-level vulnerabilities from a static testing SaaS (such as Snyk or npm audit), from dynamic testing tools like OWASP ZAP (with documentation explaining any false positives), and ongoing code review informed by OWASP or similar standards |
+| User research | Features and functionality developed should be driven by user insights and data analytics. Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end). | Research plans and artifacts from usability testing and/or other research methods with end users are available at the end of every applicable sprint, in accordance with the Contractor’s research plan. | SmartPay will manually evaluate the artifacts based on a research plan provided by the contractor at the end of the second sprint and every applicable sprint thereafter. |
