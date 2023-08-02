@@ -152,3 +152,75 @@ The following chart sets forth the performance standards and quality levels the 
 | Documented | Summary of user stories completed every sprint. All dependencies are listed and the licenses are documented. Major functionality in the software/source code is documented. Individual methods are documented inline in a format that permits the use of tools such as JSDoc. System diagram is provided. Relevant security controls are documented and kept up to date. | Combination of manual review and automated testing, if available | Manual review |
 | Secure | Code is free of known static and runtime vulnerabilities | Code submitted must be free of medium- and high-level static and dynamic security vulnerabilities | Tests free of medium- and high-level vulnerabilities from a static testing SaaS (such as Snyk or npm audit), from dynamic testing tools like OWASP ZAP (with documentation explaining any false positives), and ongoing code review informed by OWASP or similar standards |
 | User research | Features and functionality developed should be driven by user insights and data analytics. Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end). | Research plans and artifacts from usability testing and/or other research methods with end users are available at the end of every applicable sprint, in accordance with the Contractor’s research plan. | SmartPay will manually evaluate the artifacts based on a research plan provided by the contractor at the end of the second sprint and every applicable sprint thereafter. |
+
+## 3.0 Operating Constraints (Non-functional Requirements)
+### 3.1 Environment
+- Software development services will occur in the GSA SmartPay Github environment(s).
+- Website usage will be tracked with the [Digital Analytics Program](https://digital.gov/guides/dap/). 
+- Hosting will be on Cloud.gov Pages for building and serving front-end static assets and Cloud.gov for serving APIs and hosting the database and other backend services. Services are provided through an interagency agreement that CCCM has in place with Cloud.gov.
+- Current coding languages are Python for the back-end and JavaScript (Astro and Vue.js) for the front-end. The Government is not prescribing that these must be the coding language(s) moving forward.
+
+### 3.2 Design
+- Software development services shall leverage the [U.S. Web Design System](https://designsystem.digital.gov/).
+- Content development will follow CCCM [style guide](https://github.com/GSA/smartpay-website/wiki/GSA-SmartPay%C2%AE-%7C-Style-Guide-for-the-Website-and-Training-Platform).
+- Software development will follow [Section 508 compliance](https://www.section508.gov/develop/applicability-conformance/) standards and accessibility guidelines using Web Content Accessibility Guidelines 2.1 AA standards.
+
+### 3.3 System Access 
+- All Contractor personnel working under the task order will need to be U.S. citizens and reside in the United States.
+- Homeland Security Presidential Directive 12 (HSPD-12) applies to Contractor development personnel as such performance requires access to internal government information technology (IT) systems. As a result of HSPD-12 applicability to the requirements of this document, the Government will perform all required background investigations for Contractor personnel, and the Contractor shall ensure their personnel requiring physical access to Federally- controlled information technology systems have identification that complies with HSPD-12 policy. Immediately upon award, the credential process shall commence. The Contractor will not be given the Notice to Proceed (NTP) to start work until all Contractor personnel have the proper identification to satisfy this requirement.
+- Medium risk security clearance (Tier 2) shall be required. Access to GSA data and systems cannot be provided until a favorable adjudication is received. 
+- [NIST](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/multi-factor-authentication) phishing resistant multi-factor authentication (MFA) shall be required for privileged and non-privileged users where login is required.  
+- Once the award is made, the Government will begin the process to provide the Government Furnished Equipment (GFE) and GSA Access Cards (GAC) to the contractor. Until the GFE and GACs are provided to the contractor by the Government, the contractor shall use their own equipment (which should abide by GSA security requirements) for work on the project at no additional cost. After the GFE and GACs are provided to the contractor by the Government, the contractor must use the GFE (which requires a GAC to operate) for work on the project.
+
+### 3.4 Security
+The CCCM website properties supporting the GSA SmartPay Program (as identified below) are Federal information systems that are presently categorized at FIPS 199 Low Impact. 
+
+- GSA SmartPay Main website ([https://smartpay.gsa.gov](https://smartpay.gsa.gov/))
+- GSA SmartPay Training website ([https://training.smartpay.gsa.gov](https://training.smartpay.gsa.gov/))
+- GSA SmartPay Section 889 Representations tool website  ([https://889.smartpay.gsa.gov](https://889.smartpay.gsa.gov/#/))
+
+As GSA Federal Information systems, the websites are required to comply with the Federal Information Security Management Act (FISMA) (44 U.S.C. 3544); OMB policy, GSA Information security policies and information security guidelines, and Cybersecurity & Infrastructure Security Agency (CISA) Binding Operational Directives and Emergency Directives. Security compliance will be continuous through DevSecOps practices and via user stories issued in sprint planning.
+
+The Vendor shall support the security and privacy requirements for Internal Systems enumerated in Section 2.0 of [GSA IT Security Procedural Guide 09-48, *Security and Privacy Requirements for IT Acquisition Efforts*, Revision 6, dated April 15, 2021](https://www.gsa.gov/system/files/Security_and_Privacy_Requirements_for_IT_Acquisition_Efforts_%5BCIO_IT_Security_09-48_Rev_6%5D_04-15-2021%20%281%29.pdf) at the direction of the GSA SmartPay Program and GSA SmartPay Information System Security Manager (ISSM). This includes but is not limited to documentation, implementation, assessment support, and continuous monitoring of NIST 800-53 R5 security and privacy controls to support the initial and ongoing authorization to operate for the in-scope GSA SmartPay Program websites. The specific assessment & authorization (A&A) approach for the GSA SmartPay Program websites will be directed by the GSA SmartPay Program and ISSM and may involve an initial Lightweight ATO followings GSA’s Lightweight Security Authorization Process; final authorizations for applications/systems on Cloud PaaS/SaaS that are FedRAMP authorized shall be assessed and authorized to the corresponding FedRAMP Customer Responsible Matrix (CRM) controls.
+
+The required policies and regulations are specified in Security and Privacy Requirements for IT Acquisition Efforts; CIO-IT Security-09-48, April 15, 2021 (Attachment A) or latest version; Managing Enterprise Cybersecurity Risk CIO-IT Security-06-30, May 9, 2022 or latest version (Attachment B); GSA Information Technology Security Policy, CIO 21001N, September 21, 2022 or latest version (Attachment C); CIO IT Policy Requirements Guide-12-2018, June 9, 2023 or latest version (Attachment D).
+
+The contractor shall design and implement ICAM solutions that are consistent with GSA requirements as outlined in Identification and Authentication Procedural Guide [CIO IT Security 01-01 Rev. 7] and Access Control Procedural Guide [CIO IT Security 01-07, Rev 5].
+
+#### 3.4.1 Specific Security Requirements
+The Contractor shall have all staff members complete a confidentiality agreement and submit to the Contracting Officer prior to starting contract performance.
+
+#### 3.4.2 Special Security Clauses
+**FAR 52.204-27 Prohibition on a ByteDance Covered Application (Jun 2023)**
+(a) Definitions. As used in this clause—
+
+Covered application means the social networking service TikTok or any successor application or service developed or provided by ByteDance Limited or an entity owned by ByteDance Limited.
+
+Information technology, as defined in 40 U.S.C. 11101(6)—
+
+(1) Means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use—
+
+(i) Of that equipment; or
+
+(ii) Of that equipment to a significant extent in the performance of a service or the furnishing of a product;
+
+(2) Includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but
+
+3) Does not include any equipment acquired by a Federal contractor incidental to a Federal contract.
+
+(b) Prohibition. Section 102 of Division R of the Consolidated Appropriations Act, 2023 (Pub. L. 117-328), the No TikTok on Government Devices Act, and its implementing guidance under Office of Management and Budget (OMB) Memorandum M-23-13, dated February 27, 2023, “No TikTok on Government Devices” Implementation Guidance, collectively prohibit the presence or use of a covered application on executive agency information technology, including certain equipment used by Federal contractors. The Contractor is prohibited from having or using a covered application on any information technology owned or managed by the Government, or on any information technology used or provided by the Contractor under this contract, including equipment provided by the Contractor’s employees; however, this prohibition does not apply if the Contracting Officer provides written notification to the Contractor that an exception has been granted in accordance with OMB Memorandum M-23-13.
+
+c) Subcontracts. The Contractor shall insert the substance of this clause, including this paragraph (c), in all subcontracts, including subcontracts for the acquisition of commercial products or commercial services.
+
+(End of clause)
+
+**Performance Requirement FAS Cyber-Supply Chain Risk Assessment (JAN 2023)**
+The Government may perform a cyber-supply chain risk assessment of the awarded contractor at any time during the period of performance. The Government may review any information provided by the contractor to the Government as part of this contract action, along with any other information available to the Government from any other source, to assess the cyber-supply chain risk associated with the contractor. The Government may monitor the following cyber-supply chain risk information, including, but not limited to:
+1. Functionality and features of awarded products and services, including access to data and information system privileges;
+2. The ability of a source to produce and deliver products and services as expected;
+3. Foreign control of, or influence over, a source, product or service (e.g., foreign ownership, personal and professional ties between a source and any foreign entity, legal regime of any foreign country in which a source is headquartered or conducts operations);
+4. Security, authenticity, and integrity of products and services and their supply and compilation chains;
+5. The contractor’s capacity to mitigate identified risks;
+6. Any other considerations that would factor into an analysis of the security, integrity, resilience, quality, trustworthiness, or authenticity of products, services or sources.
+
+In the event supply chain risks are identified during contract administration and corrective action becomes necessary, mutually agreeable corrective actions will be sought based upon specific identified risks. Failure to resolve any identified risk may result in government action including not extending the period of performance, not exercising remaining option periods, and/or contract termination.
