@@ -460,4 +460,109 @@ All responses must be submitted using this [Google form](https://docs.google.com
 **Price:** 
 Price responses must be submitted as part of this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc8OcYOeKYe2M97BjXZOOmC-yBeZK3dlwh0T5_qez4UKaywaw/viewform) and include the following materials:
 
-[ ]Price Quote ([Attachment G](https://github.com/GSA/SmartPay-RFQ/blob/main/Appendix%20G%20-%20Smartpay%20Pricing%20Sheet.xlsx))
+- [ ]Price Quote ([Attachment G](https://github.com/GSA/SmartPay-RFQ/blob/main/Appendix%20G%20-%20Smartpay%20Pricing%20Sheet.xlsx))
+
+### 6.2	Instructions for Quotes
+
+Failing to follow these instructions may result in removal from consideration for the award.
+
+#### 6.2.1 Technical Submissions
+Technical submissions must consist of a technical approach of no more than four (4) pages, a user research plan of no more than three (3) pages, a staffing plan of no more than three (3) pages plus resumes and signed letters of intent for key personnel, similar experience of no more than one 1 page and references to three (3) source code samples, preferably open source. 
+
+Similar experience submittal: The contractor should provide up to three (3) examples of software development services for projects that are similar in size, scope, and complexity to the project described in this RFQ. The description should detail the problem being solved.
+
+Source code submittals: The references for up to three (3) source code samples must be either links to Git repositories (either credentialed or public) or to equivalent version-controlled repositories that provide the Government with the full revision history for all files. If a Contractor submits a link to a private Git repository hosted with GitHub, the Government will provide the Contractor with one (1) or more GitHub user identities by email, and the Contractor will be expected to promptly provide the identified user(s) with access to the private Git repository. The source code samples should be for projects that are similar in size, scope, and complexity to the project contemplated here. The source code must have been developed by either (i) the Contractor itself, or (ii) an individual that is being proposed as Key Personnel for this project. 
+
+The technical approach must set forth the Contractor's proposed approach to providing the services required, including programming language(s) the Contractor proposes to use. The technical quote must also make clear that the Contractor understands the details of the project requirements. The technical quote must also identify potential obstacles to efficient development and include plans to overcome those potential obstacles. 
+
+User research plan submissions: The Contractor will submit a user research plan demonstrating how they would approach ongoing user research into this project based on the information provided in this RFQ. This user research plan should include:
+
+- A research plan that includes such items as research goals, research questions, methods, roles, timeline, participants, recruiting approach, and expected outcomes
+- An interview protocol that shows your introduction, a sample of questions asked, and closing – do not include responses
+- A short summary of how those findings would be communicated and used to affect the project work, and how the research would continue after this iteration
+- Usability testing approach
+
+The staffing plan must set forth the Contractor's proposed approach to staffing the requirements of this project, including the titles of each of the labor categories proposed and proposed level of effort for each member of the Contractor's development team. The staffing plan must also identify Key Personnel (the proposed Project Manager and proposed Technical Lead) by name, and include a resume for each. Those resumes must include a brief description of the experience and capability for each individual, but cannot exceed one (1) page in length each. Contractors proposing Key Personnel who are not currently employed by the Contractor must include a signed letter of intent from the individual proposed as Key Personnel that they intend to participate in this project for at least one (1) year. The staffing plan must also set forth the extent to which the proposed team for this project was involved in the development of the source code samples submitted.
+
+The staffing plan must set forth and explain the extent to which the Contractor will provide individuals with experience in at least each of the following areas:
+- Agile development practices
+- Automated (unit/integration/end-to-end) testing
+- Continuous Integration and Continuous Deployment
+- Application Protocol Interface (API) development and documentation
+- Open-source software development
+- Cloud deployment
+- Building and testing public facing sites and tools
+- DevSecOps
+- UX research/design
+- Cyber security
+
+#### 6.2.2 Price Submissions
+Price submissions must set forth a single dollar amount that represents the Contractor's estimate of the total T&M cost for the development services for the base 12-month period and 2 separate 12-month option periods using the [price worksheet template](https://github.com/GSA/SmartPay-RFQ/blob/main/Appendix%20G%20-%20Smartpay%20Pricing%20Sheet.xlsx). The Government expects that the labor categories and staffing levels set forth by the Contractor in the [price worksheet](https://github.com/GSA/SmartPay-RFQ/blob/main/Appendix%20G%20-%20Smartpay%20Pricing%20Sheet.xlsx) will be consistent with the Contractor's staffing plan and in alignment with the Contractor’s GSA Schedule.
+
+#### 6.2.3	Oral Presentation/Interview (Optional)
+The Government does not intend to conduct oral presentations/interviews but reserves the right to. If conducted, the following procedures will apply:
+
+Each interview will be conducted remotely via video connection and/or teleconference. The Contracting Officer will communicate with certain Contractors, solely at the Government’s discretion, to schedule the dates and times of interviews.
+
+Each interview will include an unstructured question and answer session, during which Contractors will be asked questions about the technical aspects of their quote and their approach to software development. The Government expects these interviews will assist in assessing the technical abilities of the proposed development team and to better understand the proposed technical approach described in the Contractor's written submission. Both of the Contractor's proposed Key Personnel must participate in the interview.
+
+The Introductions phase of each interview will last approximately 5 minutes, during which the Contractor and Government’s interview team members will introduce themselves.
+
+The Open Technical Session of each interview will last approximately 45 minutes, during which the Contractor interview team will respond to the Government’s questions related to the technical aspects of the Contractor's quote. Contractors will NOT be able to use or present any slides, graphs, charts, or other written presentation materials, including handouts. There will be no follow-up session for further questions after this part of the interview.
+
+The Closing Remarks phase of each interview will last approximately 5 minutes, during which the Contractor may make a short presentation summarizing the Contractor's responses to the Government’s questions.
+
+Interviews will not constitute discussions. Statements made during an interview will not become part of the quote.
+
+### 6.3 	Basis of Award and Evaluation Factors
+Evaluation will be conducted IAW FAR 8.405-2(d). Each submission received by the Government will be evaluated for technical acceptability. Submissions that are determined to not be technically acceptable after the Contractor has been given the opportunity for a clarification will not be evaluated further. 
+
+Quotes must be realistic with respect to technical approach, staffing approach, and total price. Quotes that indicate a lack of understanding of the project requirements may not be considered for award. Quotes may indicate a lack of understanding of the project requirements if the staffing plan does not use a realistic mix of labor categories and hours, or if any proposed hourly labor rates are unrealistically high or low.
+
+The Government will evaluate quotes on a competitive, best value basis using a trade-off between technical and price factors. Submissions will be evaluated based on four (4) evaluation factors. These factors are:
+
+(1) technical approach, 
+
+(2) staffing approach, 
+
+(3) similar experience, and 
+
+(4) price.
+
+The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. The Government may make an award to a Contractor that demonstrates an advantage with respect to technical (at time of award, the awardee’s technical approach will be added to section 2.1 of the [Performance Work Statement, Attachment F](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20F%20%E2%80%93%20Performance%20Work%20Statement.docx)), non-price factors, even if such an award would result in a higher total price to the Government. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to the Government of the Contractor's advantage in the non-price factors.
+
+#### 6.3.1 	Technical Approach
+In evaluating a Contractor's technical approach, the Government will consider (a) the quality of the Contractor's plans to provide the open source, agile development services required, (b) the extent of the Contractor's understanding of the details of the project requirements, and (c) the extent to which the Contractor has identified potential obstacles to efficient development, and has proposed realistic approaches to overcome those potential obstacles.
+
+#### 6.3.2 	Staffing Approach
+In evaluating a Contractor's staffing approach, the Government will consider (a) the skills and experience of the Key Personnel and other individuals that the Contractor plans to use to provide the required services, (b) the mix of labor categories that will comprise the Contractor's proposed development team, and (c) the Contractor's proposed number of hours of services to be provided by each member of the Contractor's proposed development team.
+
+#### 6.3.4	Similar Experience
+In evaluating a Contractor's similar experience, the Government will consider the extent to which the Contractor has recently provided software development services for projects that are similar in size, scope, and complexity to the project described in this RFQ, and the quality of those services. In evaluating the quality of those services, the Government will consider, among other things, the revision history for all files in the source code samples provided. In considering a Contractor's similar experience, the Government may also consider information from any other source, including Contractor's prior customers and public websites.
+
+#### 6.3.5 	Price
+In evaluating a Contractor's price, the Government will consider the total of the Contractor's estimated costs for the development services for the base and two (2) option periods. The Government will also consider the labor mix and level of effort proposed.
+
+Consistent with a T&M contract, the Contractor will be paid using fully burdened hourly rates. The Government intends to evaluate quotes and award based on initial quotes, and therefore the Contractor's initial quote should contain the Contractor's best fully burdened hourly rates. 
+
+The not-to-exceed ceiling on this contract will be $744,900 for the base period of performance (FAR 52.232-22 Limitation of Funds applicable) and up to an additional not-to-exceed ceiling of $600,000 for each of the two (2) option periods (FAR 52.232-18 Availability of Funds). Contractors are expected to submit a quote reflective of its solution to fulfill the Government’s requirements.
+
+The Government may require continued performance of any services within the limits and at the rates specified in the task order in accordance with FAR Clause 52.217-8 - Option To Extend Services. For evaluation purposes only, the Government will calculate a price for FAR Clause 52.217-8, Option to Extend Services, by prorating the evaluated pricing for the final performance period for a six-month period. Contractors shall not submit a separate proposed price for the potential extension of services period of up to six (6) months.
+
+## 7.0 	Clauses 
+### 7.1  FAR 52.252-2 Clauses Incorporated by Reference (Feb 1998)
+This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available. Also, the full text of a clause may be accessed electronically at this/these address(es):
+
+https://www.acquisition.gov/browse/index/far
+
+The following clauses are incorporated by reference and shall be made a part of the resultant task order:
+
+| Clause Number | Title | Date |
+| :--- | :--- | :--- |
+| 52.204-25 | Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment | Nov 2021 |
+| 52.212-4 | Contract Terms and Conditions—Commercial Products and Commercial Services | Dec 2022 |
+| 52.217-5 | Evaluation of Options | Jul 1990 |
+| 52.232-18 | Availability of Funds | Apr 1984 |
+| 52.232-22 | Limitation of Funds | Apr 1984 |
+
+(End of clause)
