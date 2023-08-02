@@ -22,13 +22,13 @@ All clauses, terms and conditions of the contractor’s contract apply / flow do
 | ------------- | ------------- |------------- |
 | Questions Submission | August 9, 2023 at Noon, Eastern Time (ET) | [Question Response Form](https://docs.google.com/forms/d/e/1FAIpQLSe1sSxJM48HAeuaVLkP9OnGYJADwT7UgOxVMDGMn83cZ1ndrA/viewform) |
 
-<td colspan="2">Government Point of Contact</td>
+### Government Point of Contact
 | Contracting Officer | *Rosalind Cherry* |
 | --- | --- |
 | Contracting Office | *Office of Professional Services and Human Capital Categories (PSHC)
 Office of Contract Operations (QRAD)* |
-| Email| *Rosalind Cherry* |
-| Correspondence  | *Any emails related to this RFQ shall use the email subject heading “SmartPay RFQ Agile Development - [Schedule holder’s name]”* |
+| Email | *Rosalind Cherry* |
+| Correspondence | *Any emails related to this RFQ shall use the email subject heading “SmartPay RFQ Agile Development - [Schedule holder’s name]”* |
 
 ### Closing Dates and Times
 | RFQ closing date | ***August 25, 2023 at Noon, Eastern Time (ET)*** |
