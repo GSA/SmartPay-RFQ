@@ -316,3 +316,124 @@ It □ does, □ does not use covered telecommunications equipment or services, 
 (End of provision)
 
 ## 4.0	Period of Performance, Contract Place Performance, and Contract Type
+
+### 4.1 Period of Performance
+
+The period of performance (PoP) shall be one (1) year, with options to extend up to two (2) additional years. The PoP is expected to begin on or around September 30, 2023.
+
+GSA may, by written notice, extend the term of the contract in accordance with FAR Clause 52.217-9, Option to Extend the Term of the Contract. 
+
+**FAR 52.217-9 Option to Extend the Term of the Contract (Mar 2000)**
+
+(a) The Government may extend the term of this contract by written notice to the Contractor within 30 days; provided that the Government gives the Contractor a preliminary written notice of its intent to extend at least 60 days before the contract expires. The preliminary notice does not commit the Government to an extension.
+
+(b) If the Government exercises this option, the extended contract shall be considered to include this option clause.
+
+(c) The total duration of this contract, including the exercise of any options under this clause, shall not exceed 4 (four) years.
+
+(End of clause)
+
+As indicated in FAR 52.217-8, the Government may choose to exercise the Extension of Services at the end of any performance period (base or option periods), utilizing the rates of that performance period. Evaluation or inclusion of options shall not obligate the Government to exercise the option(s).
+
+**FAR Subpart 52.217-8 Option to Extend Services (Nov 1999)**
+
+The Government may require continued performance of any services within the limits and at the rates specified in the contract. These rates may be adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than once, but the total extension of performance hereunder shall not exceed 6 months. The Contracting Officer may exercise the option by written notice to the Contractor within 30 days.
+
+(End of clause)
+
+### 4.2	Contract Place of Performance
+The Contractor may choose the location(s) from which to perform the required software development services so long as the work is performed in the Contiguous United States (CONUS). CONUS is defined as the 48 contiguous States and the District of Columbia. CCCM’s core customer service hours are 8:00 am - 4:00 pm ET; The Contractor’s software development team shall be available 11:00 am - 4:00 pm ET, with an assigned point of contact outside those hours if urgent matters arise. 
+
+### 4.3	Contract Type
+The Government intends to issue a Time and Materials (T&M) task order under an existing contract under the Multiple Award Schedule (“Schedules”) Technology's Special Item Number (SIN) 54151S for IT Professional Services, and all quotes must be submitted on that basis.The Government will not consider quotes that include fees for licenses or subscriptions.
+
+## 5.0	Contract Administration
+### 5.1 Invoices
+On each invoice, the Contractor shall provide a summary of the billed CLIN. The summary shall include the invoiced CLIN: CLIN number and description, as well as the invoiced amount. The invoice shall also provide a total amount, across the CLIN, billed to date. The Contractor shall not bill, nor be reimbursed, for any charges that are not specifically tasked in the sprint or incorporated via a written modification issued by the CO.
+In addition to the requirements defined in sections 5.7.3 and 5.7.4 below, to constitute a proper invoice, the billing document must include the following information and/or attached documentation:
+(1) Name of Contractor and Contractor’s Taxpayer Identification Number;
+(2) Period covered by invoice and invoice date;
+(3) Task order number;
+(4) All invoices for services must set forth in detail the following:
+    (i) Individual performing service each day by hour and quarter of an hour;
+    (ii) Type of services performed each day by hour and quarter of an hour; and
+    (iii) Hourly rate for each service so detailed;
+(5) Any applicable payment discount terms; and
+(6) Total amount billed.
+
+The Contractor shall not bill, nor be reimbursed, for any charges that are not specifically stated in this task order or incorporated via a written modification issued by the CO.
+
+### 5.2 	Procedures for Payment
+The Government intends to make payment to the Contractor via charge card as outlined in accordance with (IAW) FAR 52.232-36, Payment by Third Party. Pursuant to FAR 32.1108(b)(2)(ii), the contracting officer shall not authorize the government-wide commercial purchase card as a method of payment during any period the System for Award Management (SAM) indicates that the Contractor has delinquent debt subject to collection under the Treasury Offset Program (TOP). In such cases, payments under the contract shall be made in accordance with the clause at 52.232-33, Payment by Electronic Funds Transfer-System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer-Other Than System for Award Management, as appropriate (see FAR 32.1110(d)).
+
+### 5.3	Payment by government-wide commercial purchase card
+Please note, the payment via purchase card is rescinded should the Contractor's System for Award Management (SAM) registration indicate that the Contractor has delinquent debt that is subject to collection under the Treasury Offset Program (TOP).
+
+### 5.4 	Electronic Funds Transfer Method
+The Contractor shall submit invoices not more frequently than once per month. Payment shall be made in accordance with the clause found at FAR 52.212-4 Contract Terms and Conditions – Commercial Items (Nov 2021), paragraph(g), following receipt of properly executed invoices prepared in accordance with the requirements of this task order.
+
+The Contractor has the option to submit an electronic or hard copy original invoice for payment to GSA Financial Information & Operations Division.
+
+Electronic Invoices are encouraged and may be submitted to the following address:
+https://vcss.ocfo.gsa.gov
+
+Invoices may also be submitted in lieu of electronic submission to:
+
+USDA-OCFO
+Financial Information & Operations Division
+Financial Operations & Disbursement Branch
+2300 Main Street – 2NW
+Kansas City, MO 64108
+Tel: (800) 676-3690/(816) 926-7287
+Fax: (816) 926-5189
+
+A duplicate electronic invoice with supporting documentation shall be sent electronically to the COR and CO. The COR will confirm performance made against the invoiced line items to ensure that the correct amounts have been billed and will document any price deductions. The COR will then certify and provide a signature indicating that the invoice is valid for payment. Invoices are authorized for payment upon the Government’s receipt and acceptance of deliverables specified in the task order and the receipt of a valid invoice. Invoices shall be rendered no later than the 15th calendar day of the month following performance and must be accompanied by all status reports submitted during that period. The COR must receive a copy of the invoice and all supporting documentation (i.e. list of daily hours worked by each of the Contractor’s employees (also summed up as weekly and monthly for each person)) before or at the same time as the GSA Finance Office. All final invoices must be submitted no later than thirty (30) calendar days after the last day of the month for which the charges, either labor and/or ODCs, were incurred. The Contractor may invoice only for hours, travel, and/or unique services ordered by GSA and actually used in direct support of the program office for this task order.
+
+Invoices must include the following:
+(1) Name and address of the Contractor
+(2) Invoice date and number
+(3) GSA Multiple Award Schedule (MAS) Information Technology Professional Services Contract Number, line item number and, if applicable, the order number
+(4) Description, quantity, unit of measure, unit price and extended price of the items delivered
+(5) Terms of any discount for prompt payment offered
+(6) Name and address of official to whom payment is to be sent
+(7) Name, title, and phone number of person to notify in event of defective invoice
+(8) Taxpayer Identification Number (TIN). The Contractor shall include its TIN on the invoice only if required elsewhere in this contract
+(9) Electronic funds transfer (EFT) banking information
+
+Note: Failure to comply with the procedures outlined above may result in the invoice being rejected, or your payment being delayed.
+
+### 5.5 	Not-to-Exceed (NTE) Ceiling and Limitation of Funds 
+The not-to-exceed ceiling on this contract will be $744,900 for the first period of performance (52.232-22 Limitation of Funds applicable) and up to an additional not-to-exceed of $600,000 for each of the two (2) option periods (FAR 52.232-18 Availability of Funds).
+
+In accordance with FAR 52.232-22, Limitation of Funds, the Contractor shall notify the CO in writing when it has reason to believe that the costs it expects to incur under this contract in the next 60 days, when added to all costs previously incurred, will exceed 75 percent of (1) the total amount so far allotted to the contract by the Government. The notice shall state the estimated amount of additional funds required to continue performance for the period specified in the contract. 
+
+Sixty (60) days before the end of the period specified in the contract, the Contractor shall notify the CO in writing of the estimated amount of additional funds, if any, required to continue timely performance under the contract or for any further period specified in the contract or otherwise agreed upon, and when the funds will be required. 
+
+## 6.0 	Instructions and Evaluation
+### 6.1	Submission Instructions
+#### 6.1.1 	Before submitting a quote - Questions and Answers 
+Submit all questions concerning this RFQ through this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSe1sSxJM48HAeuaVLkP9OnGYJADwT7UgOxVMDGMn83cZ1ndrA/viewform). All questions must be submitted by August 9, 2023 at Noon, Eastern Time (ET).
+
+Questions should clearly express the Contractor’s issues or concerns and must follow the format provided in the Google form. 
+
+Answers to all written questions will be provided to all prospective contractors, giving due regard to the proper protection of proprietary information and without reference to the source of the question. In posing questions, Contractors must cite the relevant section, paragraph, and page number of the RFQ. Statements expressing opinions, sentiments, or conjectures are not considered valid inquiries and will not receive a response. Further, contractors are reminded that hypothetical questions aimed at receiving a potential “evaluation decision” will not be addressed.
+
+Answers will be provided as an amendment to the solicitation no later than three (3) business days after the deadline for questions.
+
+#### 6.1.2 Submission checklist
+All responses must be submitted using this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc8OcYOeKYe2M97BjXZOOmC-yBeZK3dlwh0T5_qez4UKaywaw/viewform) (page uploads should be 12-point font and 8 ½ x 11 page size) and include the following materials:
+
+**Technical Submission:**
+[ ]Technical approach - 4 pages maximum, including diagrams 
+  [ ]Including user research plan - 3 pages maximum
+[ ]Code repository - maximum of 2 code repositories, with a short description about the project for each code repository 
+[ ]Similar experience - 1 page maximum
+[ ]Staffing plan - 3 pages maximum
+  [ ]Resumes from designated key personnel
+  [ ]Letters of intent from designated key personnel (if not currently employed by Contractor)
+[ ]Conflict of Interest (Attachment E)
+[ ]Representation of FAR Provision 52.204-24 and FAR Provision 52.204-26 (checkbox on Google form)
+
+**Price:** 
+Price responses must be submitted as part of this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc8OcYOeKYe2M97BjXZOOmC-yBeZK3dlwh0T5_qez4UKaywaw/viewform) and include the following materials:
+Price Quote (Attachment G)
