@@ -215,6 +215,7 @@ c) Subcontracts. The Contractor shall insert the substance of this clause, inclu
 (End of clause)
 
 **Performance Requirement FAS Cyber-Supply Chain Risk Assessment (JAN 2023)**
+
 The Government may perform a cyber-supply chain risk assessment of the awarded contractor at any time during the period of performance. The Government may review any information provided by the contractor to the Government as part of this contract action, along with any other information available to the Government from any other source, to assess the cyber-supply chain risk associated with the contractor. The Government may monitor the following cyber-supply chain risk information, including, but not limited to:
 1. Functionality and features of awarded products and services, including access to data and information system privileges;
 2. The ability of a source to produce and deliver products and services as expected;
