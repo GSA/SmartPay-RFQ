@@ -566,3 +566,19 @@ The following clauses are incorporated by reference and shall be made a part of 
 | 52.232-22 | Limitation of Funds | Apr 1984 |
 
 (End of clause)
+
+### 7.2  GSAM 552.2 Clauses Incorporated by Reference 
+| Clause Number | Title | Date |
+| :--- | :--- | :--- |
+| 552.238-115  | Special Ordering Procedures for the Acquisition of Order-Level Materials | Apr 2022 |
+
+## 8.0 	List of Attachments
+|   | Title | Date |
+| :--- | :--- | :--- |
+| A | :--- | :--- |
+| B | :--- | :--- |
+| C | :--- | :--- |
+| D | :--- | :--- |
+| E | :--- | :--- |
+| F | :--- | :--- |
+| G | :--- | :--- |
