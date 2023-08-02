@@ -20,11 +20,11 @@ All clauses, terms and conditions of the contractor’s contract apply / flow do
 ## Deadlines and response formats
 | Item | Date responses due | Format | 
 | ------------- | ------------- |------------- |
-| Questions Submission | August 9, 2023 at Noon, Eastern Time (ET) | Format | [Question Response Form](https://docs.google.com/forms/d/e/1FAIpQLSe1sSxJM48HAeuaVLkP9OnGYJADwT7UgOxVMDGMn83cZ1ndrA/viewform)
+| Questions Submission | August 9, 2023 at Noon, Eastern Time (ET) | [Question Response Form](https://docs.google.com/forms/d/e/1FAIpQLSe1sSxJM48HAeuaVLkP9OnGYJADwT7UgOxVMDGMn83cZ1ndrA/viewform) |
 
-### Government Point of Contact
-| Contracting Officer | *Rosalind Cherry* |
+| Government Point of Contact |
 | --- | --- |
+| Contracting Officer | *Rosalind Cherry* |
 | Contracting Office | *Office of Professional Services and Human Capital Categories (PSHC)
 Office of Contract Operations (QRAD)* |
 | Email| *Rosalind Cherry* |
