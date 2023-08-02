@@ -439,23 +439,23 @@ Answers will be provided as an amendment to the solicitation no later than three
 All responses must be submitted using this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc8OcYOeKYe2M97BjXZOOmC-yBeZK3dlwh0T5_qez4UKaywaw/viewform) (page uploads should be 12-point font and 8 ½ x 11 page size) and include the following materials:
 
 **Technical Submission:**
-[ ]Technical approach - 4 pages maximum, including diagrams 
+- [ ]Technical approach - 4 pages maximum, including diagrams 
 
-  [ ]Including user research plan - 3 pages maximum
+  - [ ]Including user research plan - 3 pages maximum
 
-[ ]Code repository - maximum of 2 code repositories, with a short description about the project for each code repository 
+- [ ]Code repository - maximum of 2 code repositories, with a short description about the project for each code repository 
 
-[ ]Similar experience - 1 page maximum
+- [ ]Similar experience - 1 page maximum
 
-[ ]Staffing plan - 3 pages maximum
+- [ ]Staffing plan - 3 pages maximum
 
-  [ ]Resumes from designated key personnel
+  - [ ]Resumes from designated key personnel
 
-  [ ]Letters of intent from designated key personnel (if not currently employed by Contractor)
+  - [ ]Letters of intent from designated key personnel (if not currently employed by Contractor)
 
-[ ]Conflict of Interest (Attachment E)
+- [ ]Conflict of Interest (Attachment E)
 
-[ ]Representation of FAR Provision 52.204-24 and FAR Provision 52.204-26 (checkbox on Google form)
+- [ ]Representation of FAR Provision 52.204-24 and FAR Provision 52.204-26 (checkbox on Google form)
 
 **Price:** 
 Price responses must be submitted as part of this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc8OcYOeKYe2M97BjXZOOmC-yBeZK3dlwh0T5_qez4UKaywaw/viewform) and include the following materials:
