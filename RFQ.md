@@ -425,15 +425,24 @@ All responses must be submitted using this [Google form](https://docs.google.com
 
 **Technical Submission:**
 [ ]Technical approach - 4 pages maximum, including diagrams 
+
   [ ]Including user research plan - 3 pages maximum
+
 [ ]Code repository - maximum of 2 code repositories, with a short description about the project for each code repository 
+
 [ ]Similar experience - 1 page maximum
+
 [ ]Staffing plan - 3 pages maximum
+
   [ ]Resumes from designated key personnel
+
   [ ]Letters of intent from designated key personnel (if not currently employed by Contractor)
+
 [ ]Conflict of Interest (Attachment E)
+
 [ ]Representation of FAR Provision 52.204-24 and FAR Provision 52.204-26 (checkbox on Google form)
 
 **Price:** 
 Price responses must be submitted as part of this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc8OcYOeKYe2M97BjXZOOmC-yBeZK3dlwh0T5_qez4UKaywaw/viewform) and include the following materials:
-Price Quote (Attachment G)
+
+[ ]Price Quote ([Attachment G](https://github.com/GSA/SmartPay-RFQ/blob/main/Appendix%20G%20-%20Smartpay%20Pricing%20Sheet.xlsx))
