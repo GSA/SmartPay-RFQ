@@ -575,10 +575,10 @@ The following clauses are incorporated by reference and shall be made a part of 
 ## 8.0 	List of Attachments
 |   | Title | Date |
 | :--- | :--- | :--- |
-| A | :--- | :--- |
-| B | :--- | :--- |
-| C | :--- | :--- |
-| D | :--- | :--- |
-| E | :--- | :--- |
-| F | :--- | :--- |
-| G | :--- | :--- |
+| A | [Security and Privacy Requirements for IT Acquisition Efforts CIO-IT Security-09-48](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20A_Security%20and%20Privacy%20Requirements%20for%20IT%20Acquisition%20Efforts%20CIO-IT%20Security-09-48.pdf) | April 15, 2021 (or current version) |
+| B | [Managing Enterprise Cybersecurity Risk CIO-IT Security-06-30](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20B_Managing%20Enterprise%20Cybersecurity%20Risk%20CIO-IT%20Security-06-30.pdf) | May 9, 2023 |
+| C | [CIO 21001N GSA Information Technology Security Policy](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20C_CIO_21001N_GSA_Information_Technology_Security_Policy.pdf) | September 21, 2022 |
+| D | [CIO IT Policy Requirements Guide-12-2018](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20D%20-%20CIO-12-2018%20Revision%202%20Final_%20IT%20Policy%20Requirements%20Guide.pdf) | June 9, 2023 |
+| E | [Potential Organizational Conflict of Interest: SmartPay Development Services](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20E_Potential%20Organizational%20Conflict%20of%20Interest_%20SmartPay%20Development%20Services.docx)  |   |
+| F | [Performance Work Statement](https://github.com/GSA/SmartPay-RFQ/blob/main/Attachment%20F%20%E2%80%93%20Performance%20Work%20Statement.docx) |   |
+| G | [Price Worksheet](https://github.com/GSA/SmartPay-RFQ/blob/main/Appendix%20G%20-%20Smartpay%20Pricing%20Sheet.xlsx) |   |
